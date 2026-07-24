@@ -43,8 +43,6 @@
 
 <H3>PROGRAM</H3>
 ```
-
-
 import random
 
 class HealthMonitoringAgent:
@@ -96,6 +94,8 @@ if __name__ == "__main__":
     
     health_monitoring_agent.monitor_health()
 ```
+
+
 <H3>OUTPUT</H3>
 <img width="1917" height="743" alt="Screenshot 2026-07-22 113329" src="https://github.com/user-attachments/assets/da33a7b3-d5f1-4738-af37-7c801012f10f" />
 
