@@ -42,7 +42,7 @@
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 
 <H3>PROGRAM</H3>
-```
+```py
 import random
 
 class HealthMonitoringAgent:
